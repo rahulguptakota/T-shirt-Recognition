@@ -1,0 +1,4 @@
+﻿  Source.cpp
+Source.cpp(124): warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+c:\users\sharad roy\documents\visual studio 2013\projects\ssim_new\ssim_new\source.cpp(132): warning C4715: 'WinMain' : not all control paths return a value
+  SSIM_new.vcxproj -> C:\Users\Sharad Roy\documents\visual studio 2013\Projects\SSIM_new\x64\Debug\SSIM_new.exe

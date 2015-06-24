@@ -1,0 +1,2 @@
+Save the images of tshirt images refined to F:/tshirt recognition/images
+Use the data from amazon_data.xlsx in your program.
